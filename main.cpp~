@@ -1,6 +1,5 @@
 /*author:Akshay
-date:12.12.12*
-just checking my upload/
+date:12.12.12*/
 
 #include <iostream>
 #include "fibonacci.h"
