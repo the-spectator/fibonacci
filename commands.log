@@ -1,0 +1,1000 @@
+  234  ls
+  235  clear
+  236  cd ..
+  237  ls
+  238  cd home
+  239  cd akshayb1
+  240  ls
+  241  clear
+  242  java -version
+  243  python -version
+  244  python -h
+  245  sudo apt*get install openjdk-7-jdk
+  246  sudo apt-get install openjdk-7-jdk
+  247  java -version
+  248  sudo
+  249  man ls-l
+  250  man ls -l
+  251  ls
+  252  ls -l
+  253  cd ls
+  254  cd codes
+  255  ls
+  256  rm -f set.c~ sets.c~
+  257  ls
+  258  gedit package.sh
+  259  ls
+  260  gedit shelll.sh
+  261  gedit package.sh
+  262  ls
+  263  gedit package.sh
+  264  cd codes
+  265  ls
+  266  gedit package.sh
+  267  touch package.sh
+  268  gedit package.sh
+  269  ls
+  270  chmod 777 package.sh
+  271  ls
+  272  /package.sh
+  273  ./package.sh
+  274  gedit package.sh
+  275  ./package.sh
+  276  gedit package.sh
+  277  ./package.sh
+  278  gedit package.sh
+  279  ./package.sh
+  280  gedit package.sh&
+  281  ./package.sh
+  282  gedit package.sh&
+  283  ./package.sh
+  284  clear
+  285  ./package.sh
+  286  gedit package.sh&
+  287  ./package.sh
+  288  clear
+  289  ./package.sh
+  290  ls
+  291  ./package.sh
+  292  clear
+  293  ./package.sh
+  294  nasm
+  295  sudo apt-get install nasm
+  296  nasm -version
+  297  pwd
+  298  tree
+  299  sudo apt-get install tree
+  300  cd /home/akshayb1/android-sdk-linux/tools 
+  301  ./android
+  302  cd homw
+  303  cd..
+  304  cd /home
+  305  ls
+  306  cd akshayb1
+  307  ls
+  308  clear
+  309  cd file:///home/akshayb1/android-sdk-linux/tools 
+  310  cd /home/akshayb1/android-sdk-linux/tools 
+  311  ./android
+  312  gedit a.txt
+  313  man system("cls")
+  314  man stdlib
+  315  man system
+  316  cd /home/akshayb1/android-sdk-linux/tools 
+  317  ./android
+  318  alias nbtstat='nmblookup -S -U ciscosb -R
+  319  nbstat -a
+  320  nbtstat -a
+  321  netstat -a
+  322  nbtstat -a
+  323  sudo apt update
+  324  man sudo apt update
+  325  sudo curl https://yt-dl.org/downloads/2015.07.07/youtube-dl -o /usr/local/bin/youtube-dl
+  326  file:///home/akshayb1/android-sdk-linux/tools 
+  327  cd /home/akshayb1/android-sdk-linux/tools 
+  328  ./android
+  329  /
+  330  cd /
+  331  cd akshayb1
+  332  ls
+  333  cd home
+  334  ls
+  335  cd akshayb1
+  336  ls
+  337  sudo rmmod iwlwif
+  338  sudo su
+  339  sudo nmap -sP 192.168.131.1
+  340  gedit sort.py
+  341  python sort.py
+  342  gedit sort.py
+  343  python sort.py
+  344  gedit sort.py
+  345  python sort.py
+  346  gedit sort.py&
+  347  python sort.py
+  348  gedit sorts.py
+  349  gedit sort.py
+  350  gedit sort.py&
+  351  python sort.py
+  352  gedit sort.py&
+  353  youtube dl http://www.youtube.com/watch?feature=player_embedded&v=non#t=0
+  354  man youtube
+  355  youtube-dl -t 'http://www.youtube.com/watch?feature=player_embedded&v=non'
+  356  man youtube-dl
+  357  youtube -dl
+  358  youtube-dl
+  359  sudo wget https://yt-dl.org/downloads/2015.07.07/youtube-dl -O /usr/local/bin/youtube-dl
+  360  youtube-dl -t 'https://www.youtube.com/watch?feature=player_detailpage&v=PKNRXjE8mDE'
+  361  cd /usr/local/bin/youtube-dl
+  362  cd /usr/local/bin/
+  363  ls
+  364  sudo chmod 777 youtube-dl
+  365  cd /home/akshayb1
+  366  ls
+  367  youtube-dl -t 'https://www.youtube.com/watch?feature=player_detailpage&v=PKNRXjE8mDE'
+  368  youtube-dl -t 'http://www.youtube.com/watch?feature=player_embedded&v=non'
+  369  youtube-dl -t 'https://www.youtube.com/watch?v=QAbQgLGKd3Y&list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl'
+  370  youtube-dl --help
+  371  youtube-dl --help|more
+  372  youtube-dl --flat-playlist https://www.youtube.com/watch?v=QAbQgLGKd3Y&list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl
+  373  escpade
+  374  q
+  375  youtube-dl -h
+  376  youtube-dl --flat-playlist https://www.youtube.com/watch?v=SUOWNXGRc6g&list=PL2F07DBCDCC01493A
+  377  qui
+  378  sudo apt-get install libxss1 libappindicator1 libindicator7
+  379  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+  380  sudo dpkg -i google-chrome*.deb
+  381  nmap -sn 10.10.10.0/24
+  382  sudo apt-get install nmap
+  383  nmap -sn 10.10.10.0/24
+  384  nmap -sn 196.168.131.1/24
+  385  nmap -sP 196.168.131.1/24
+  386  nmap -sP 196.168.177.1/24
+  387  arp -e
+  388  cd codes
+  389  gedit f.asm
+  390  gedit f1.asm
+  391  nasm -f elf32 f1.asm -o f1.o
+  392  ld -o f1 f1.o
+  393  ld -s i386 -o f1 f1.o
+  394  ~./f1.o
+  395  man ld
+  396  gedit prac3.asm
+  397  nasm -f elf32 prac3.asm
+  398  ld -m elf_i386 -s -o prac3 prac3.o
+  399  ./prac3
+  400  gedit prac3.asm
+  401  nasm -f elf32 prac3.asm
+  402  ld -m elf_i386 -s -o prac3 prac3.o
+  403  ./prac3
+  404  gedit c.cpp
+  405  g++ c.cpp
+  406  ./a.out
+  407  gedit test.c
+  408  gedit test.c&
+  409  gcc test.c
+  410  ./a.out
+  411  gcc test.c
+  412  ./a.out
+  413  gcc test.c
+  414  ./a.out
+  415  gcc test.c
+  416  ./a.out
+  417  gcc test.c
+  418  ./a.out
+  419  clear
+  420  gcc test.c
+  421  ./a.out
+  422  gcc test.c
+  423  gedit test.c&
+  424  gcc test.c
+  425  ./a.out
+  426  gcc test.c
+  427  ./a.out
+  428  gedit test.c &
+  429  clear
+  430  gcc test.c
+  431  ./a.out
+  432  gedit add.asm
+  433  nasm -f elf32 add.asm -add.o
+  434  gedit add.asm
+  435  gedit string.asm
+  436  clear
+  437  nasm -f elf32 string.asm -string.o
+  438  gedit string.asm
+  439  nasm -f elf32 string.asm -string.o
+  440  ld -m elf_i386 -s -o string string.o 
+  441  clear
+  442  ./string
+  443  gedit hexa.asm
+  444  nasm -f elf32 hexa.asm -hexa.o
+  445  nasm -f elf32 hexa.asm 
+  446  ld -m elf_i386 -s -o hexa hexa.o
+  447  clear
+  448  ./hexa
+  449  gedit pr1.asm
+  450  nasm -f elf32 pr1.asm 
+  451  ld -m elf_i386 -s -o pr1 pr1.o
+  452  clear
+  453  ./pr1
+  454  gedit as7.c
+  455  gcc as7.c
+  456  ./a.out
+  457  clear
+  458  ./a.out
+  459  gcc as6.c
+  460  gedit as6.c&
+  461  gcc as6.c
+  462  ./a.out
+  463  clear
+  464  gedit as6.c
+  465  gcc as6.c
+  466  ./a.out
+  467  gedit as6.c
+  468  gcc as6.c
+  469  ./a.out
+  470  clear
+  471  ./a.out
+  472  ls
+  473  gcc 3.c
+  474  ./aout
+  475  ./a.out
+  476  clear
+  477  gcc 5.c
+  478  ./a.out
+  479  gedit 5.c
+  480  ./4.sh
+  481  ./4
+  482  gedit 4.sh
+  483  ls
+  484  chmod 777 4.sh
+  485  ls
+  486  ./4
+  487  ./4.sh
+  488  clear
+  489  ./4.sh
+  490  clear
+  491  chmod 777 6.sh
+  492  clear
+  493  ./6.sh
+  494  gedit guju.txt
+  495  gedit 4.txt
+  496  gedit ass5.asm
+  497  history
+  498  nasm -f elf32 hexa.asm
+  499  nasm -f elf32 ass5.asm
+  500  ld -m i_386 -s -o ass5 ass5.o
+  501  ld -m elf_i386 -s -o prac3 prac3.o
+  502  ld -m elf_i386 -s -o ass5 ass5.o
+  503  clear
+  504  ./ass5
+  505  ls
+  506  nasm -f elf32 posneg.asm
+  507  ld -m elf_i386 -s -o posneg posneg.o
+  508  ./posneg
+  509  clear
+  510  ./posneg
+  511  ls
+  512  nasm -f elf32 avg.asm
+  513  ls
+  514  nasm -f elf32 average.asm
+  515  ld -m elf_i386 -s -o avg avg.o
+  516  ld -m elf_i386 -s -o avg avgerage.o
+  517  ld -m elf_i386 -s -o average average.o
+  518  ./average
+  519  clear
+  520  ./average
+  521  gedit ass7.asm
+  522  free
+  523  free -g
+  524  top
+  525  clear
+  526  /proc
+  527  man proc
+  528  free -k
+  529  free -m
+  530  clear
+  531  ls
+  532  gedit hack.cpp
+  533  gedit commad.asm&
+  534  gedit pstree.txt&
+  535  man main
+  536  man int
+  537  ls
+  538  ps tree
+  539  clear
+  540  ps tree
+  541  pstree
+  542  clear
+  543  man ptrace
+  544  gedit test123.cpp
+  545  execlv
+  546  execev
+  547  gedit test123.cpp&
+  548  g++ test123.cpp
+  549  ./a.out
+  550  gedit test123.cpp&
+  551  nasm -f elf32 assg8.asm
+  552  cd codes
+  553  nasm -f elf32 assg8.asm
+  554  ld -m elf_i386 -s -o assg8 assg8.o
+  555  nasm -f elf32 assg7.asm
+  556  nasm -f elf32 assg8.asm
+  557  nasm -f elf32 assg9_8.asm
+  558  ld -m elf_i386 -s -o a assg9_8.o
+  559  ./a
+  560  clear
+  561  nasm -f elf32 assg9_8.asm
+  562  ld -m elf_i386 -s -o a assg9_8.o
+  563  ./a
+  564  clear
+  565  ./a
+  566  clear
+  567  nasm -f elf32 assg9_16.asm
+  568  ld -m elf_i386 -s -o a assg9_16.o
+  569  ld -m elf_i386 -s -o a16 assg9_16.o
+  570  ./a16
+  571  clear
+  572  ./a16
+  573  clear
+  574  nasm -f elf32 assg9_32.asm
+  575  ld -m elf_i386 -s -o a32 assg9_32.o
+  576  ./a32
+  577  clear
+  578  ./a32
+  579  clear
+  580  nasm -f elf64 assg9_64.asm
+  581  ld -o a64 assg9_64.o
+  582  ./a64
+  583  clear
+  584  ./a64
+  585  clear
+  586  nasm -f elf32 assg10.asm
+  587  ld -m elf_i386 -s -o a10 assg10.o
+  588  ./a10
+  589  cd codes
+  590  ls
+  591  nasm -f elf assg11.asm
+  592  ld -m elf_i386 -s -o a11 a11.o
+  593  ld -m elf_i386 -s -o assg11 assg11.o
+  594  ./assg11
+  595  clear
+  596  ld -m elf_i386 -s -o assg11 assg11.o
+  597  ./assg11
+  598  ./assg11 MA program 11
+  599  ls
+  600  gedit assg12.asm
+  601  nasm -f elf assg12.asm
+  602  ld -m elf_i386 -s -o assg12 assg12.o
+  603  ./assg12
+  604  clear
+  605  nasm -f elf assg12.asm
+  606  ld -m elf_i386 -s -o assg12 assg12.o
+  607  ./assg12
+  608  nasm -f elf assg12.asm
+  609  ld -m elf_i386 -s -o assg12 assg12.o
+  610  ./assg12
+  611  nasm -f elf assg12.asm
+  612  ld -m elf_i386 -s -o assg12 assg12.o
+  613  ./assg12
+  614  clear
+  615  nasm -f elf a12.asm
+  616  ld -m elf_i386 -s -o a12 a12.o
+  617  clear
+  618  nasm -f elf a12.asm
+  619  ld -m elf_i386 -s -o a12 a12.o
+  620  ./a12
+  621  clear
+  622  nasm -f elf assg13.asm
+  623  ld -m elf_i386 -s -o assg13 assg13.o
+  624  ./assg13
+  625  clear
+  626  nasm -f elf assg14.asm
+  627  ld -m elf_i386 -s -o assg14 assg14.o
+  628  ./assg14
+  629  python file.py
+  630  gedit file.py
+  631  python file.py
+  632  gedit file.py
+  633  clear
+  634  python file.py
+  635  python bfs_dfs.py
+  636  nasm -f elf hexa_64.asm
+  637  nasm -f elf64 hexa_64.asm
+  638  ld -m elf -s -o assg14 assg14.o
+  639  ld -m elf64 -s -o assg14 assg14.o
+  640  nasm -f elf32 2_16.asm
+  641  ld -m elf_i386 -s -o 2_16 2_16.o
+  642  ./2_16
+  643  clear
+  644  ./2_16
+  645  clear
+  646  ./2_16
+  647  clear
+  648  ./hexa_64
+  649  ls
+  650  ./hexa
+  651  chmod 777 hexa
+  652  ./hexa
+  653  clear
+  654  ./hexa
+  655  python file.py
+  656  g++ avl.cpp
+  657  ./a.out
+  658  g++ avl.cpp
+  659  ./a.out
+  660  g++ avltr.cpp
+  661  ./a.out
+  662  g++ avltr.cpp
+  663  ./a.out
+  664  python file.py
+  665  ls
+  666  python file.py
+  667  g++ d.cpp
+  668  ./a.out
+  669  sudo apt -get update
+  670  sudo apt-get update
+  671  sudo apt-get install ruby-full
+  672  ruby -version
+  673  ruby 
+  674  ruby -v
+  675  irb
+  676  man signal
+  677  irb
+  678  vi hangman.rb
+  679  gedit hangman.rb
+  680  gedit hangman.rb&
+  681  ruby hangman.rb
+  682  gedit hangman.rb&
+  683  ruby hangman.rb
+  684  gedit hangman.rb&
+  685  ruby hangman.rb
+  686  gedit hangman1.rb&
+  687  ruby hangman1.rb
+  688  ruby hangman.rb
+  689  2
+  690  22
+  691  2
+  692  22
+  693  2
+  694  22
+  695  2
+  696  22222222222222222222222222222222222222222222222
+  697  2
+  698  222222222222212121212121212122121223343434343434343434343434342]
+  699  [[ [[
+  700  [
+  701  [[ 1223343435
+  702  3
+  703  clear
+  704  gem list
+  705  gem help
+  706  gem install rails
+  707  gem install rake
+  708  man Qlabel
+  709  man Qlabel.h
+  710  man qlabel.h
+  711  ./a.out 
+  712  8
+  713  8+9
+  714  perl -v
+  715  gedit test.cpp
+  716  g++ test.cpp
+  717  ./a.out
+  718  ls
+  719  sh package.sh
+  720  python sort.py
+  721  gedit output.txt
+  722  python sort.py
+  723  gedit output.txt&
+  724  python sort.py
+  725  gedit output.txt&
+  726  python bfs_dfs.py
+  727  who
+  728  man who
+  729  who -T
+  730  who -a
+  731  who tty
+  732  man tty
+  733  tty
+  734  tty(1)
+  735  tty --help
+  736  tty invocation
+  737  akshay birajdar
+  738  fufflslmasmdcmsnvvnodmpwmcnwvwomwvnd;zmosndfpdjojdffdofomjfsnosfsnisfsdfmodsfjosdfdfnobfbvmobnodbmodnbodspdfinosdmbdsnodsodsn
+  739  clear
+  740  pwd
+  741  ls |m
+  742  ls
+  743  rm output.txt~
+  744  ls
+  745  man blue
+  746  man ls
+  747  ls --color
+  748  ls -c
+  749  ls -d
+  750  ls - b
+  751  ls -b
+  752  man man
+  753  man ls
+  754  man groupadd
+  755  getpid
+  756  man getpid
+  757  gedit pid.c&
+  758  gcc pid.c
+  759  ./a.out
+  760  man fork
+  761  ./a.out
+  762  ma sys/types.h
+  763  ma sys/types
+  764  man sys/types
+  765  man sys/types.h
+  766  man getpid
+  767  man <sys/types.h>
+  768  man nice
+  769  fork
+  770  groupadd aki
+  771  sudo groupadd aki
+  772  sudo groupdel aki
+  773  sudo useradd aki
+  774  sudo userdel aki
+  775  man getpriority
+  776  ps
+  777  ps -elf
+  778  man killall
+  779  man kill
+  780  man ps
+  781  man tty
+  782  man open
+  783  man creat
+  784  gedit mem.c
+  785  gedit file.pl
+  786  )gedit file.txt
+  787  gedit file.txt
+  788  perl file.pl
+  789  gedit file.pl
+  790  perl file.pl
+  791  gedit b.sh
+  792  chmod 777 b.sh
+  793  sh b.sh
+  794  free
+  795  gedit test.cpp
+  796  gcc test.cpp
+  797  gedit test.cpp
+  798  gcc test.cpp
+  799  ./a.out
+  800  gedit test.cpp
+  801  gedit tes.cpp
+  802  gcc tes.cpp
+  803  g++ test.cpp
+  804  ./a.out
+  805  g++ tes.cpp
+  806  ./a.out
+  807  gedit tes.cpp
+  808  g++ tes.cpp
+  809  ./a.out
+  810  gedit test.cpp
+  811  g++ test.cpp
+  812  ./a.out
+  813  fork
+  814  toilet Akshay
+  815  sudo apt-get install toilet
+  816  ssh debian@192.168.7.2
+  817  sudo apt-get putty
+  818  sudo apt-get install putty
+  819  putty
+  820  sudo apt-get install xdm
+  821  ipconfig
+  822  ipconfi
+  823  ipconfip
+  824  ipconfig
+  825  ifconfig
+  826  putty
+  827  ssh
+  828  sudo uninstall xdm
+  829  --help uninstall
+  830  sudo shutdown now
+  831  sudo apt-get purge xdm
+  832  ssh debian@192.168.7.2
+  833  history
+  834  toilet kk
+  835  sudo apt-get install toilet
+  836  clear
+  837  ping 8.8.8.8
+  838  ls
+  839  ssh debian@192.168.7.2
+  840  ping 8.8.8.8
+  841  ssh debian@192.162.7.2
+  842  cd /
+  843  ls
+  844  sudo apt-get update ; sudo apt-get upgrade
+  845  ls
+  846  putty
+  847  sudo apt-get install lynx
+  848  ssh debian@192.168.7.2
+  849  gedit kk.py
+  850  python kk.py
+  851  gedit kk.py
+  852  python kk.py
+  853  ssh debian@192.168.7.2
+  854  clear
+  855  ssh debian@192.168.7.2
+  856  sudo apt-get install lxde
+  857  start lxde
+  858  startlxde
+  859  ssh -x debian@192.168.7.2
+  860  ssh debian@192.168.7.2
+  861  ssh -x  debian@192.168.7.2
+  862  sudo -X debian@192.168.7.2
+  863  ssh -X debian@192.168.7.2 
+  864  shudo shutdown now
+  865  sudo shutdown now
+  866  ssh debian@192.168.7.2
+  867  sudo update
+  868  history
+  869  apt-cache search minicom
+  870  ssh ubuntu@192.168.7.2
+  871  ssh-keygen -R 192.168.7.2
+  872  ssh ubuntu@192.168.7.2
+  873  ssh debian@192.168.7.2
+  874  ssh-keygen -R 192.168.7.2
+  875  ssh debian@192.168.7.2
+  876  history
+  877  ssh-keygen -R 192.168.7.2
+  878  ssh ubuntu@192.168.7.2
+  879  ssh-keygen -R 192.168.7.2
+  880  ssh ubuntu@192.168.7.2
+  881  putty
+  882  ssh ubuntu@192.168.7.2
+  883  ssh debian@192.168.7.2
+  884  ssh-keygen -R 192.168.7.2
+  885  ssh debian@192.168.7.2
+  886  ssh -X debian 192.168.7.2
+  887  ssh -X debian@192.168.7.2
+  888  ssh debian@192.168.7.2
+  889  sudo reboot
+  890  ssh debian@192.168.7
+  891  ssh debian@192.168.7.2
+  892  startlxde
+  893  ssh debian@192.168.7.2
+  894  ssh-keygen -R 192.168.7.2
+  895  ssh ubuntu@192.168.7.2
+  896  ls opencv.sh 
+  897  ls -l opencv.sh 
+  898  chmod 777 opencv.sh 
+  899  ls -l opencv.sh 
+  900  ls
+  901  ./opencv.sh 
+  902  cd /
+  903  ls
+  904  cd opt
+  905  ls
+  906  cd opencv
+  907  ls
+  908  ./opencv.sh
+  909  sudo ./opencv.sh 
+  910  sudo gedit opencv.sh 
+  911  sudo apt-get -y -qq install libopencv-dev pkg-config yasm libjpeg-dev libjasper-dev libavcodec-dev libavformat-dev libswscale-dev libdc1394-22-dev libgstreamer0.10-dev libgstreamer-plugins-base0.10-dev libv4l-dev python-dev python-numpy libtbb-dev libqt4-dev libgtk2.0-dev libfaac-dev libmp3lame-dev libopencore-amrnb-dev libopencore-amrwb-dev libtheora-dev libvorbis-dev libxvidcore-dev x264 v4l-utils qt5-default  libfaac-dev libjack-jackd2-dev libmp3lame-dev libopencore-amrnb-dev libopencore-amrwb-dev libsdl1.2-dev libtheora-dev libva-dev libvdpau-dev libvorbis-dev libx11-dev libxfixes-dev libxvidcore-dev texi2html yasm zlib1g-dev libsdl1.2-dev libvpx-dev libgstreamer0.10-0  gstreamer0.10-tools gstreamer0.10-plugins-base libgstreamer-plugins-base0.10-dev gstreamer0.10-plugins-good gstreamer0.10-plugins-ugly gstreamer0.10-plugins-bad libgtk2.0-0 libgtk2.0-dev libjpeg8 libjpeg8-dev build-essential checkinstall cmake 
+  912  sudo ./opencv.sh 
+  913  sudo apt-get install -y build-essential python-dev python-setuptools python-pip python-smbus apache2 mysql-server mysql-client php5 php5-mysql php5-curl php5-gd php5-intl php-pear php5-imagick php5-imap php5-mcrypt php5-memcache php5-ming php5-ps php5-pspell php5-recode php5-snmp php5-sqlite php5-tidy php5-xmlrpc php5-xsl php5-cli php5-xcache phpmyadmin sysvbanner lxde xrdp && sudo pip install Adafruit_BBIO
+  914  gedit opencv.sh
+  915  ls
+  916  ssh ubuntu@192.168.7.2
+  917  ls
+  918  ls sak
+  919  ls sakis3g 
+  920  ./sakis3g 
+  921  pip -ver
+  922  ping 8.8.8.8
+  923  youtube-dl -o file.mp4 https://www.youtube.com/playlist?list=PLgGfaPLP959bTiKYokXPkO15atkXYyYOz
+  924  youtube-dl -o file.mp4 https://www.youtube.com/playlist?list=PLgGfaPLP959bTiKYokXPkO15atkXYyYOz
+  925  ping 8.8.8.8
+  926  sudo ./opencv.sh 
+  927  cd /opt
+  928  ls
+  929  cd opencv
+  930  ls
+  931  sudo ./opencv.sh 
+  932  sudo apt-get pip
+  933  apt-get search pip
+  934  ping 8.8.8.8
+  935  sudo apt-get install python-pip
+  936  cd /
+  937  ls
+  938  cd var
+  939  ls
+  940  pip
+  941  history
+  942  get-cache search apache2
+  943  cd /opt/opencv
+  944  ls
+  945  sudo ./opencv.sh 
+  946  gedit opencv.sh
+  947  sudo ./opencv.sh 
+  948  gedit opencv.sh
+  949  sudo ./opencv.sh 
+  950  gedit opencv.sh
+  951  sudo apt-get update;sudo apt-get upgrade
+  952  sudo ./opencv.sh 
+  953  cd /opt/fswebcam-master/
+  954  gedit script.sh
+  955  cd +x script.sh
+  956  chmod +x script.sh
+  957  ls
+  958  ./script.sh
+  959  gedit script.sh
+  960  ./script.sh
+  961  cd /
+  962  cd /home/akshayb1
+  963  ls
+  964  sudo gedit script.sh
+  965  chmod +x script.sh
+  966  sudo chmod +x script.sh
+  967  ./script.sh
+  968  cd ./desktop/fswebcam
+  969  ls
+  970  cd ./Desktop/fswebcam
+  971  ./capture.su
+  972  man update
+  973  man apt-get
+  974  cd /home/akshayb1
+  975  ls
+  976  youtube-dl https://www.youtube.com/watch?v=5-OWLYyHUR0&index=9&list=PLgGfaPLP959bTiKYokXPkO15atkXYyYOz
+  977  youtube-dl https://www.youtube.com/watch?v=LiAccbuBFwM&list=PLgGfaPLP959bTiKYokXPkO15atkXYyYOz&index=14
+  978  youtube-dl https://www.youtube.com/watch?v=Mi9IAlqSwbE&list=PLgGfaPLP959bTiKYokXPkO15atkXYyYOz&index=12
+  979  ssh ubuntu@192.168.7.2
+  980  youtube-dl https://www.youtube.com/watch?v=p4dOPXWaeLI&index=16&list=PLgGfaPLP959bTiKYokXPkO15atkXYyYOz
+  981  youtube-dl https://www.youtube.com/watch?v=zjrttArGSoU&list=PLgGfaPLP959bTiKYokXPkO15atkXYyYOz&index=17
+  982  youtube-dl https://www.youtube.com/watch?v=UV21xHuYSE0&list=PLgGfaPLP959bTiKYokXPkO15atkXYyYOz&index=18
+  983  youtube-dl https://www.youtube.com/watch?v=0jJMZ_hQ7I4&index=19&list=PLgGfaPLP959bTiKYokXPkO15atkXYyYOz
+  984  ls -ltrh /dev/video*
+  985  sudo apt-get install -y fswebcam
+  986  cd /opt/fswebcam-master/
+  987  ./configure --prefix=/usr
+  988  make
+  989  make installsudo apt-get install -y fswebcam
+  990  make installsudo apt-get install fswebcam
+  991  sudo apt-get install fswebcam
+  992  fswebcam -r 320x240 -d /dev/video0 capture.jpg
+  993  ls
+  994  ./capture.jpg
+  995  sudo ./capture.jpg
+  996  youtube-dl -o file.mp4 https://www.youtube.com/watch?v=E7wB__M9fdw&list=PLgGfaPLP959bTiKYokXPkO15atkXYyYOz
+  997  youtube-dl https://www.youtube.com/playlist?list=PLgGfaPLP959bTiKYokXPkO15atkXYyYOz
+  998  cd /
+  999  ls
+ 1000  cd home
+ 1001  ls
+ 1002  cd akshayb1
+ 1003  ls
+ 1004  sudo apt-get install fswebcam
+ 1005  sudo remove fswebcam
+ 1006  sudo apt-get -qq remove fswebcam
+ 1007  sudo apt-get install fswebcam
+ 1008  youtube-dl -cit https://www.youtube.com/playlist?list=PLgGfaPLP959bTiKYokXPkO15atkXYyYOz
+ 1009  youtube-dl -t https://www.youtube.com/playlist?list=PLgGfaPLP959bTiKYokXPkO15atkXYyYOz
+ 1010  youtube-dl https://www.youtube.com/watch?v=f2h41uEi0xU&list=PLgGfaPLP959bTiKYokXPkO15atkXYyYOz&index=3
+ 1011  youtube-dl https://www.youtube.com/watch?v=CFMEhm91_QY&list=PLgGfaPLP959bTiKYokXPkO15atkXYyYOz&index=4
+ 1012  youtube-dl https://www.youtube.com/watch?v=Mjjt__c4syY&list=PLgGfaPLP959bTiKYokXPkO15atkXYyYOz&index=5
+ 1013  youtube-dl https://www.youtube.com/watch?v=5FoSwMZ4uJg&list=PLgGfaPLP959bTiKYokXPkO15atkXYyYOz&index=6
+ 1014  youtube-dl https://www.youtube.com/watch?v=qbEN3boz7_M&index=7&list=PLgGfaPLP959bTiKYokXPkO15atkXYyYOz
+ 1015  youtube-dl -U
+ 1016  youtube-dl "https://www.youtube.com/playlist?list=PLgGfaPLP959bTiKYokXPkO15atkXYyYOz"
+ 1017  youtube-dl -cit "https://www.youtube.com/playlist?list=PLgGfaPLP959bTiKYokXPkO15atkXYyYOz"
+ 1018  youtube-dl -U
+ 1019  youtube-dl https://www.youtube.com/watch?v=1RZRxJPVAC8&index=8&list=PLgGfaPLP959bTiKYokXPkO15atkXYyYOz
+ 1020  youtube-dl https://www.youtube.com/watch?v=aC4CWo7PUPU&list=PLgGfaPLP959bTiKYokXPkO15atkXYyYOz&index=10
+ 1021  youtube-dl https://www.youtube.com/watch?v=CXQ3QoT5bdQ&index=11&list=PLgGfaPLP959bTiKYokXPkO15atkXYyYOz
+ 1022  youtube-dl https://www.youtube.com/watch?v=Mi9IAlqSwbE&list=PLgGfaPLP959bTiKYokXPkO15atkXYyYOz&index=12
+ 1023  youtube-dl "https://www.youtube.com/watch?v=Mi9IAlqSwbE&list=PLgGfaPLP959bTiKYokXPkO15atkXYyYOz&index=12"
+ 1024  youtube-dl https://www.youtube.com/watch?v=SFas42HBtMg&index=13&list=PLgGfaPLP959bTiKYokXPkO15atkXYyYOz
+ 1025  youtube-dl https://www.youtube.com/watch?v=bl6whQwdLXk&index=15&list=PLgGfaPLP959bTiKYokXPkO15atkXYyYOz
+ 1026  sudo curl https://yt-dl.org/latest/youtube-dl -o /usr/local/bin/youtube-dl
+ 1027  youtube-dl -cit "https://www.youtube.com/playlist?list=PLgGfaPLP959bTiKYokXPkO15atkXYyYOz"
+ 1028  youtube-dl https://www.youtube.com/watch?v=bl6whQwdLXk&index=15&list=PLgGfaPLP959bTiKYokXPkO15atkXYyYOz
+ 1029  ls /dev/sr*
+ 1030  sudo mount /dev/sr0 /mnt
+ 1031  lusb
+ 1032  lsusb
+ 1033  cd /mnt
+ 1034  ls
+ 1035  pwd
+ 1036  la
+ 1037  lals
+ 1038  ls
+ 1039  ./web Scaping Review 1-CFMEhm91_QY.MP4
+ 1040  git
+ 1041  sudo apt-get install git
+ 1042  pip
+ 1043  pip -ver
+ 1044  pip -v
+ 1045  man pip
+ 1046  cmd
+ 1047  search
+ 1048  sudo ls
+ 1049  cd D
+ 1050  cd D:/
+ 1051  gedit notes.txt
+ 1052  gedit notes.txt&
+ 1053  git --ver
+ 1054  lusb
+ 1055  lsusb
+ 1056  ls
+ 1057  rm sakis3g.sh
+ 1058  rm sakis3g
+ 1059  ls
+ 1060  sudo apt-get install git
+ 1061  git -v
+ 1062  git -ver
+ 1063  git --ver
+ 1064  git --version 
+ 1065  git
+ 1066  git help
+ 1067  clear
+ 1068  sudo apt-get install pip >> laog.log 2>&1
+ 1069  ls
+ 1070  ls *.log
+ 1071  gedit laog.log
+ 1072  rm laog.log 
+ 1073  ls
+ 1074  clear
+ 1075  git help
+ 1076  man git
+ 1077  gedit notes.txt
+ 1078  man git
+ 1079  gedit notes.txt&
+ 1080  kikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikkikikikikiki
+ 1081  clear
+ 1082  pwd
+ 1083  cd codes
+ 1084  ls
+ 1085  cd ~/
+ 1086  ls
+ 1087  cd ~
+ 1088  ls
+ 1089  cd codes
+ 1090  mkdir fibonacci
+ 1091  ls
+ 1092  cd fibonacci/
+ 1093  ls
+ 1094  git init
+ 1095  ls
+ 1096  ruby -v
+ 1097  ls
+ 1098  cd
+ 1099  toilet nsit
+ 1100  sudo apt-get intall toilet
+ 1101  sudo apt-get install toilet
+ 1102  history
+ 1103  toilet nsit
+ 1104  toilet NSIT 
+ 1105  KATTA CORP.
+ 1106  toilet KATTA CORP.
+ 1107  toilet sOMETHing i WANAN TRY
+ 1108  toilet kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKkkkkkkkkkkkkkkkkkkkkKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKkkkkkkkkkkkkkkkKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+ 1109  geit notes.txt&
+ 1110  gedit notes.txt&
+ 1111  ls
+ 1112  ./tes.cpp
+ 1113  g++ tes.cpp
+ 1114  ./a.out
+ 1115  more tes.cpp
+ 1116  cd codes
+ 1117  cd.git
+ 1118  cd .git
+ 1119  ./.git
+ 1120  cd fibonacci/
+ 1121  cd .git
+ 1122  l
+ 1123  ls
+ 1124  ls -l
+ 1125  vim
+ 1126  vim c.cpp
+ 1127  vi c.cpp
+ 1128  ls
+ 1129  rm c.cpp
+ 1130  ls
+ 1131  git status
+ 1132  cd ..
+ 1133  git statu
+ 1134  git status 
+ 1135  git config --global user.name "akshayb1"
+ 1136  git config --global user.email="akshaybirajdar05@gmail.com"
+ 1137  git config --list
+ 1138  git commit -m "Added code interface"
+ 1139  git config --global user.email "mailakshayb1@gmail.com"
+ 1140  git config --global user.name "akshayb1"
+ 1141  ls
+ 1142  git commit -m "Added code interface"
+ 1143  touch fibonacci.cpp
+ 1144  gedit fibonacci.cpp 
+ 1145  g++ fibonacci.cpp
+ 1146  gedit fibonacci.cpp 
+ 1147  g++ fibonacci.cpp
+ 1148  ./a.out 
+ 1149  g++ fibonacci.cpp
+ 1150  gedit fibonacci.cpp 
+ 1151  g++ fibonacci.cpp
+ 1152  ./a.out 
+ 1153  clear
+ 1154  git commit -m
+ 1155  git commit
+ 1156  git add .
+ 1157  git commit -m
+ 1158  git commit -m "Added code interface"
+ 1159  git global --help
+ 1160  git add .
+ 1161  ls
+ 1162  git status
+ 1163  gedit fibonacci.cpp
+ 1164  git log
+ 1165  gedit fibonacci.cpp
+ 1166  git log
+ 1167  g++ fibonacci.cpp
+ 1168  ./a.out 
+ 1169  git log
+ 1170  git commit -m "Added code interface"
+ 1171  git add .
+ 1172  git commit -m "Added code interface"
+ 1173  git log
+ 1174  git config --global core.editor "gedit"
+ 1175  ~/.gitconfig
+ 1176  vi ~/.gitconfig
+ 1177  git config --global color.ui true
+ 1178  git config --list
+ 1179  git log
+ 1180  ls -l
+ 1181  ls -la
+ 1182  git add.
+ 1183  git add .
+ 1184  git ls
+ 1185  git log
+ 1186  git commit -m "Added code interface"
+ 1187  man grep
+ 1188  git commit -m "Added code interface"
+ 1189  git track
+ 1190  cd ./.git
+ 1191  ls
+ 1192  cat HEAD
+ 1193  cd /
+ 1194  sudo apt-get install -y build-essential python-dev python-setuptools python-smbus apache2 mysql-server mysql-client php5 php5-mysql php5-curl php5-gd php5-intl php-pear php5-imagick php5-imap php5-mcrypt php5-memcache php5-ming php5-ps php5-pspell php5-recode php5-snmp php5-sqlite php5-tidy php5-xmlrpc php5-xsl php5-cli php5-xcache phpmyadmin sysvbanner lxde xrdp && sudo pip install Adafruit_BBIO
+ 1195  sudo apt-get install build-essential python-dev python-setuptools python-smbus apache2 mysql-server mysql-client php5 php5-mysql php5-curl php5-gd php5-intl php-pear php5-imagick php5-imap php5-mcrypt php5-memcache php5-ming php5-ps php5-pspell php5-recode php5-snmp php5-sqlite php5-tidy php5-xmlrpc php5-xsl php5-cli php5-xcache phpmyadmin sysvbanner lxde xrdp && sudo pip install Adafruit_BBIO
+ 1196  sudo apt-get update
+ 1197  sudo apt-get install build-essential python-dev python-smbus python-pip
+ 1198  udo pip instal Adafruit_BBIO
+ 1199  sudo pip instal Adafruit_BBIO
+ 1200  sudo pip install Adafruit_BBIO
+ 1201  sudo python setup.py install
+ 1202  sudo apt-get install build-essential python-dev python-setuptools python-smbus apache2 mysql-server mysql-client php5 php5-mysql php5-curl php5-gd php5-intl php-pear php5-imagick php5-imap php5-mcrypt php5-memcache php5-ming php5-ps php5-pspell php5-recode php5-snmp php5-sqlite php5-tidy php5-xmlrpc php5-xsl php5-cli php5-xcache phpmyadmin sysvbanner lxde xrdp && sudo pip install Adafruit_BBIO
+ 1203  apache2
+ 1204  pip install beautifulsoup4
+ 1205  sudo pip install beautifulsoup4
+ 1206  sudo pip install urllib
+ 1207  sudo pip install re
+ 1208  clear
+ 1209  sudo pip install scrapy
+ 1210  cd /mnt
+ 1211  ls
+ 1212  ls -la
+ 1213  cd codes
+ 1214  cd /home/akshayb1/
+ 1215  ls
+ 1216  cd codes/
+ 1217  cd fibonacci/
+ 1218  rm -rf*
+ 1219  rm -rf *
+ 1220  ls
+ 1221  cp ../gitTraining/fibonacci/* .
+ 1222  ls
+ 1223  ls -la
+ 1224  rm -rf .git
+ 1225  ls
+ 1226  ls -la
+ 1227  ping google.com
+ 1228  git status
+ 1229  git init
+ 1230  git --global user.name "akshayb1"
+ 1231  git config --global user.name "akshayb1"
+ 1232  history
+ 1233  history >> commands.log 2>&1
