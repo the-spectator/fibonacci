@@ -1,3 +1,6 @@
+/*author:Akshay
+date:12.12.12*/
+
 #include <iostream>
 #include "fibonacci.h"
 
